@@ -7,6 +7,12 @@ then start kibana  to watch the log
 
                 sudo service kibana start
        
+Kibana running at:
+
+
+http://localhost:5601/
+
+
 To Run The Application
 
       ./gradlew bootRun
